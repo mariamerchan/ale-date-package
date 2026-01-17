@@ -1,0 +1,16 @@
+{
+  "name": "aledate",
+  "version": "1.0.0",
+  "description": "Una utilidad para manejar fechas en formato timestamp y long time.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "nodejs"
+  ],
+  "author": "Ale Merchán <alejandramerchan25@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs"
+}
